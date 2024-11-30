@@ -1,4 +1,5 @@
 Speech Emotion Recognition
+
 This repository contains a Speech Emotion Recognition project using the TESS dataset. The goal of this project is to analyze and classify emotional tones in speech using machine learning techniques. The project is implemented in Python as a Jupyter Notebook.
 
 Features
